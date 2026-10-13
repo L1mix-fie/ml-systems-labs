@@ -1,0 +1,19 @@
+{
+  "W16_output_shape": [
+    32,
+    10
+  ],
+  "W16_max_row_sum_error": 2.220446049250313e-16,
+  "W16_initial_loss": 2.3026,
+  "W64_output_shape": [
+    32,
+    10
+  ],
+  "W64_max_row_sum_error": 2.220446049250313e-16,
+  "W64_initial_loss": 2.3026,
+  "ln10": 2.3026,
+  "gradcheck_pass_untrained": "10/10",
+  "gradcheck_ok_untrained": true,
+  "gradcheck_pass_after_1_epoch": "10/10",
+  "gradcheck_ok_after_1_epoch": true
+}
